@@ -42,7 +42,7 @@ To perform the verification:
    - Use the provided command to initiate JasperGold.
    - Command:
      ```sh
-    jg -cov
+     jg -cov
      ```
    -Use run.tcl script to perform formal verification and measure code coverage metrics like branch, statement, expression, and functional coverage using the JasperGold Coverage App.
 3. **Analyze the Results**:
